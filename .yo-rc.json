@@ -1,0 +1,24 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "dispatchApp",
+    "namespaceUI5": "com.myorg",
+    "enableFPM": false,
+    "platform": "SAP HTML5 Application Repository service for SAP BTP",
+    "viewtype": "XML",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": false,
+    "codeassist": true,
+    "initrepo": true,
+    "namespaceURI": "com/myorg",
+    "opa5pos": [
+      "Main"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
